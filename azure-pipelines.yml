@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  default
+  ubuntu-latest
 
 steps:
 - task: ArchiveFiles@2
