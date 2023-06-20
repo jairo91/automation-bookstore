@@ -1,5 +1,5 @@
 {
-    "baseUrl":"https://salmon-mud-03d1fdb03.3.azurestaticapps.net/",
+    "baseUrl":"https://localhost:5500",
     "reporter": "junit",
     "reporterOptions": {
         "mochaFile": "results/TEST-[hash].xml"
